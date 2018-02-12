@@ -1,1 +1,2 @@
-# Windows-Image-Viewer
+This desktop software has been developed to open an image from any folder of your computer. The software also can
+zoom in, zoom out, rotate by right and rotate by left side an image. This has been created using Java Swing.
